@@ -189,6 +189,10 @@ box-shadow:  33px 33px 66px #d9d9d9,
     margin: 20px
 }
 
+div #galeria:hover{
+    transform: scale(2,2)
+}
+
 
 /* Production */
 
